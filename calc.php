@@ -8,9 +8,8 @@ function sub($a,$b){
 	return $a - $b;
 }
 
-function multi($a,$b){
-	return $a * $b;
-}
-function divide($a,$b){
+function multiplication($a1,$b2){
+	return $a1 * $b2;
+}function divide($a,$b){
 	return $a / $b;
 }
