@@ -10,6 +10,8 @@ function sub($a,$b){
 
 function multiplication($a1,$b2){
 	return $a1 * $b2;
-}function divide($a,$b){
-	return $a / $b;
+}
+
+function division($a1,$b2){
+	return $a2 / $b2;
 }
